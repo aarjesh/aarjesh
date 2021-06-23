@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarjesh)](https://github.com/aarjesh/github-readme-stats&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarjesh)](https://github.com/aarjesh/github-readme-stats&show_icons=true&theme=dark)
 <br>
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
